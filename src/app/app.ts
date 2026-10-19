@@ -9,5 +9,5 @@ import { PageHeader } from './shared/page-header/page-header';
   templateUrl: './app.html',
 })
 export class App {
-  protected readonly title = signal('MyApp');
+  protected readonly title = signal('MyAppTest');
 }
